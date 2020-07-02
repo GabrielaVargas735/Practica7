@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin-left: 1px;
+}
+h1{
+    color:whitesmoke;
+    background-color: #252440;
+    margin: 0;
+    text-align: center;
+    text-shadow: 2px 2px 5px red;
+}
+h2{
+    color: #252440;
+}
+body{
+    background-color: lightgrey;
+}
+p span {
+    color: red;
+}
+p{
+    color: black;
+}
+span{
+    text-decoration: underline;
+    color: red;
+}
+ul{
+    margin-left: 30px;
+}
